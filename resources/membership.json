@@ -32,7 +32,8 @@
 		"icon": "https://cdn.jsdelivr.net/gh/ilay1678/cdn@master/favicon.png",
 		"name": "我若为王",
 		"description": "Just do it!",
-		"github_username": "ilay1678"
+		"github_username": "ilay1678",
+		"hidden": true
 	},
 	"9": {
 		"domain": "www.ifts.ml",
@@ -67,9 +68,9 @@
 		"hidden": true
 	},
 	"15": {
-		"domain": "www.dao.js.cn",
-		"icon": "https://img.dao.js.cn/zb_users/upload/2021/10/202110151634246697912592.png-webp",
-		"name": "南蛮子懋和",
+		"domain": "blog.dao.js.cn",
+		"icon": "https://cn.cravatar.com/avatar/37d41e2b550633a30f5d41de61c1aa92?s=400&r=G&d=mp&ver=1754413756",
+		"name": "懋和道人",
 		"description": "李懋和，俗名李栋梁。书法、国画爱好者，互联网安全与前端建设者。",
 		"github_username": "wulintang"
 	},
@@ -82,7 +83,7 @@
 		"hidden": true
 	},
 	"19": {
-		"domain": "hi.sy",
+		"domain": "sun.cm",
 		"icon": "https://telegraph-image-e2j.pages.dev/file/aace1ce621c93938d3dfb.png",
 		"name": "白歌",
 		"description": "Just for funnnnn!!",
@@ -145,7 +146,8 @@
 		"icon": "https://bigtoyscompany.com/assets/logo.e75135c1.png",
 		"name": "大玩具公司",
 		"description": "Big toys for big boys.",
-		"github_username": "naiba"
+		"github_username": "naiba",
+		"hidden": true
 	},
 	"32": {
 		"domain": "blog.qcmoe.com",
@@ -159,11 +161,12 @@
 		"icon": "https://bokebo.com/logo.png",
 		"name": "BOKEBO",
 		"description": "BO的博客。",
-		"github_username": "xiaoxing07"
+		"github_username": "xiaoxing07",
+		"hidden": true
 	},
 	"34": {
-		"domain": "jipa.moe",
-		"icon": "https://jipa.moe/static/avatar.jpg",
+		"domain": "imjipa.top",
+		"icon": "https://imjipa.top/static/avatar.jpg",
 		"name": "JIPA233の小窝",
 		"description": "Deed divides beings into lower and higher ones.",
 		"github_username": "jipa233"
@@ -187,14 +190,16 @@
 		"icon": "https://www.xxyxxvii.com/Quick_links_Vehicles.png",
 		"name": "阿衣妞妞 | 海玛塔莎洛",
 		"description": "xxYxxVii.COM 收集并分享不同的信息",
-		"github_username": "xxyxxvii"
+		"github_username": "xxyxxvii",
+		"hidden": true
 	},
 	"39": {
 		"domain": "v.hi.sy",
 		"icon": "https://telegraph-image-e2j.pages.dev/file/aace1ce621c93938d3dfb.png",
 		"name": "白歌-V",
 		"description": "Just for funnnnn!!",
-		"github_username": "cantoblanco"
+		"github_username": "cantoblanco",
+		"hidden": true
 	},
 	"40": {
 		"domain": "wuminboke.site",
@@ -204,10 +209,10 @@
 		"github_username": "wumingblog"
 	},
 	"41": {
-		"domain": "blog.storical.space",
-		"icon": "https://blog.storical.space/images/icon.png",
-		"name": "汐塔魔法屋",
-		"description": "种下一颗有故事的种子，让它带着魔法和奇迹生根发芽",
+		"domain": "blog.storia.ren",
+		"icon": "https://blog.storia.ren/images/icon.png",
+		"name": "绘星里",
+		"description": "一起来绘制属于自己的星星！",
 		"github_username": "SinzMise"
 	},
 	"42": {
@@ -279,7 +284,8 @@
 		"icon": "https://blog.btwoa.com/btwoa.jpg",
 		"name": "btwoa",
 		"description": "世界为你简单",
-		"github_username": "btwoa"
+		"github_username": "btwoa",
+		"hidden": true
 	},
 	"54": {
 		"domain": "www.heiu.top",
@@ -300,7 +306,8 @@
 		"icon": "https://www.fly6022.fun/assets/images/avatar.jpg",
 		"name": "fly6022",
 		"description": "满载一船星辉，在星辉斑斓里放歌。",
-		"github_username": "fly6022"
+		"github_username": "fly6022",
+		"hidden": true
 	},
 	"57": {
 		"domain": "hexo.dreamerhe.cn",
@@ -319,11 +326,11 @@
 		"hidden": true
 	},
 	"59": {
-	        "domain": "www.ohdragonboi.cn",
-		"icon": "https://www.ohdragonboi.cn/favicon.png",
-		"name": "风的许多故事",
-		"description": "Do you ever shine?",
-		"github_username": "ToothlessHaveBun"
+	        "domain": "blog.ohdragonboi.cn",
+		"icon": "https://blog.ohdragonboi.cn/upload/avatar.png",
+		"name": "Frederick's Blog",
+		"description": "Sky is the limit.",
+		"github_username": "fenychn0206"
 	},
        "60": {
 	        "domain": "987654321.org",
@@ -344,14 +351,16 @@
 		"icon": "https://kyomu.me/pfp.webp",
 		"name": "Kyomu's Blog",
 		"description": "What is mind? No matter. What is matter? Never mind.",
-		"github_username": "KyomuDesu"
+		"github_username": "KyomuDesu",
+		"hidden": true
 	},
 	"63": {
 		"domain": "lik.cc",
 		"icon": "https://www.lik.cc/upload/logo.png",
 		"name": "Handsome",
 		"description": "心若有所向往,何惧道阻且长",
-		"github_username": "acanyo"
+		"github_username": "acanyo",
+		"hidden": true
 	},
 	"64": {
 		"domain": "kokona.top",
@@ -375,25 +384,27 @@
 		"github_username": "xqk"
 	},
 	"67": {
-		"domain": "blog.mcenahle.cn",
-		"icon": "https://blog.mcenahle.cn/upload/blog.png",
+		"domain": "blog.mcenahle.page",
+		"icon": "https://blog.mcenahle.page/img/icon.png",
 		"name": "梅之夏",
 		"description": "Explore. Dream. Discover.",
-		"github_username": "Mcenahle"
+		"github_username": "mcenahle"
   	}, 
 	"68": {
 		"domain": "suus.me",
 		"icon": "https://suus.me/avatar.webp",
 		"name": "蘇 SU",
 		"description": "在数字的海洋中，寻找属于自己的星辰。",
-		"github_username": "suuseer"
+		"github_username": "suuseer",
+		"hidden": true
 	},	
 	"69": {
 		"domain": "moecx.com",
 		"icon": "https://q1.qlogo.cn/g?b=qq&nk=1131596911&s=640",
 		"name": "VxiN's Blog",
 		"description": "未寄出的信，未命名的诗",
-		"github_username": "chenxin-source"
+		"github_username": "chenxin-source",
+		"hidden": true
 	},
 	"70": {
 		"domain": "blog.hanta2011.top",
@@ -403,8 +414,8 @@
 		"github_username": "exef-star"
 	},
 	"71": {
-		"domain": "blog.245179.xyz",
-		"icon": "https://blog.245179.xyz/images/atiq.png",
+		"domain": "blog.furryawa.com",
+		"icon": "https://blog.furryawa.com/images/atiq.png",
 		"name": "龙星划空",
 		"description": "人生近看是悲剧，远看是喜剧",
 		"github_username": "Catwb"
@@ -422,5 +433,373 @@
 		"name": "Watermelonabc",
 		"description": "Re苦手的小博客",
 		"github_username": "rt265"
+	},
+	"74": {
+		"domain": "blog.moodlog.cn",
+		"icon": "https://img.moodlog.cn/i/2025/04/23/logo.webp",
+		"name": "Moodlog",
+		"description": "繁华已尽，空散云烟。",
+		"github_username": "zlemoni"
+	},
+	"75": {
+		"domain": "blog.starchen.top",
+		"icon": "https://blog.starchen.top/favicon.jpg",
+		"name": "星辰博客",
+		"description": "以热爱之名，点亮技术探索者的漫长岁月！",
+		"github_username": "Pstarchen"
+	},
+	"76": {
+		"domain": "howiehz.top",
+		"icon": "https://howiehz.top/upload/ico.ico",
+		"name": "皓子的小站",
+		"description": "互联网是一片海洋，网站犹如一座座孤岛漂浮在其上，唯有超链接将它们联系起来。而此处恰好就是一座小岛，欢迎访问皓子的小站。",
+		"github_username": "HowieHz"
+	},
+	"77": {
+		"domain": "styunlen.cn",
+		"icon": "https://styunlen.cn/hello.png",
+		"name": "九仞之行",
+		"description": "严于律己，宽以待人，深自警省，讷言敏行",
+		"github_username": "Styunlen"
+	},
+	"78": {
+		"domain": "www.zheep.top",
+		"icon": "https://www.zheep.top/img/uuz.jpg",
+		"name": "云端的解构者",
+		"description": "以我观物，故物皆著我之色彩",
+		"github_username": "zheep1209"
+	},
+	"79": {
+		"domain": "blog.study996.cn",
+		"icon": "https://blog.study996.cn/upload/favicon.ico",
+		"name": "寻梦城",
+		"description": "欲买桂花同载酒 终不似，少年游",
+		"github_username": "it985",
+		"hidden": true
+	},
+	"80":{
+		"domain": "xingwangzhe.fun",
+		"icon": "https://xingwangzhe.fun/favicon.ico",
+		"name": "姓王者的博客",
+		"description": "学习，进步，创造无限可能",
+		"github_username": "xingwangzhe"
+	},
+	"81":{
+		"domain": "echo.imjianhao.cn",
+		"icon": "https://echo.imjianhao.cn/images/User.webp",
+		"name": "小杨的自留地",
+		"description": "记录感悟，分享有趣",
+		"github_username": "yjh2643408123"
+	},
+	"82":{
+		"domain": "blog.gbfun.cc",
+		"icon": "https://blog-image-1302787555.cos.ap-guangzhou.myqcloud.com//img%E7%88%86%E7%B1%B3%E8%8A%B1.svg",
+		"name": "GB 的记事簿",
+		"description": "热爱生活",
+		"github_username": "LixdHappy"
+	},
+	"83":{
+		"domain": "www.qindarkstone.cn",
+		"icon": "https://i.postimg.cc/ryxGSQ7P/hellokitty-kitty-cat-aigei-com.png",
+		"name": "暗石の小站",
+		"description": "peace&love",
+		"github_username": "Qindarkstone",
+		"hidden": true
+	},
+	"84":{
+		"domain": "kali.rf.gd",
+		"icon": "http://kali.rf.gd/wp-content/uploads/2025/07/1752018321-login_logo-1.webp",
+		"name": "Kaliの妙妙屋",
+		"description": "边走边悟",
+		"github_username": "tianhukj",
+		"hidden": true
+	},
+	"85":{
+		"domain": "blog.gogei.top",
+		"icon": "https://blog.gogei.top/images/favicon.ico",
+		"name": "Gogei的静默日志",
+		"description": "字如萤逝，码若流光",
+		"github_username": "gogei-cn"
+	},
+	"86":{
+		"domain": "www.hansjack.com",
+		"icon": "https://www.hansjack.com/favicon.ico",
+		"name": "时光流·言",
+		"description": "个人博客，持续分享网站部署实战经验、精选书评解读和生活观察手记。 这里提供可复用的技术教程、深度阅读指南和真实生活洞察，与技术爱好者一起进步......",
+		"github_username": "TGU-HansJack"
+	},
+	"87":{
+		"domain": "note.redcha.cn",
+		"icon": "https://note.redcha.cn/favicon.ico",
+		"name": "彬红茶日记",
+		"description": "我的个人生活与技术生活日记",
+		"github_username": "kuang2714"
+	},
+	"88":{
+		"domain": "lhcy.org",
+		"icon": "https://lhcy.org/favicon.ico",
+		"name": "林海草原",
+		"description": "愿我经历的苦难你不要经历，愿我已有的幸福你触手可及",
+		"github_username": "linhaii",
+		"hidden": true
+	},
+	"89":{
+		"domain": "blog.lylelove.top",
+		"icon": "https://blog.lylelove.top/media/website/yuan.png",
+		"name": "竟何",
+		"description": "写给你的长信",
+		"github_username": "lylelove"
+	},
+	"90": {
+		"domain": "blog.131714.xyz",
+		"icon": "https://img.xiaozhangya.xin/file/Avatar/avatar20.jpg",
+		"name": "小张の小站",
+		"description": "欲买桂花同载酒",
+		"github_username": "xz131714"
+	},
+	"91": {
+		"domain": "blog.00000106.xyz",
+		"icon": "https://blog.00000106.xyz/img/favicon.ico",
+		"name": "浮日誌",
+		"description": "本是青燈不歸客,卻因濁酒留風塵.",
+		"github_username": "Elegy17"
+	},
+	"92": {
+		"domain": "blog.elysium-stack.cn",
+		"icon": "https://blog.elysium-stack.cn/upload/AdeleNaumann-avatar.webp",
+		"name": "ElysiumStack",
+		"description": "不会摄影的设计师不是优秀的旅行家",
+		"github_username": "AdeleNaumann-Eyjafjalla"
+	},
+	"93": {
+		"domain": "www.calvertlee.top",
+		"icon": "http://39.99.44.163/img/Portrait.png",
+		"name": "李欣Calvert",
+		"description": "用心书写内心的共鸣",
+		"github_username": "Calvert97"
+	},
+	"94": {
+		"domain": "blog.lololowe.com",
+		"icon": "https://blog.lololowe.com/img/favicon.ico",
+		"name": "lololowe的博客",
+		"description": "宁静致远",
+		"github_username": "lololowe"
+	},
+	"95": {
+		"domain": "www.qqe4.com",
+		"icon": "https://image.qqe4.com/Piclist/20250417204903752.jpg",
+		"name": "OvO",
+		"description": "热爱生活，分享科技",
+		"github_username": "xiangleovo"
+	},
+	"96": {
+		"domain": "blog.mcxiaochen.top",
+		"icon": "https://blog.mcxiaochen.top/favicon.ico",
+		"name": "辰渊尘的博客",
+		"description": "有志不在年高",
+		"github_username": "mcxiaochenn"
+	},
+	"97": {
+		"domain": "qxzhan.cn",
+		"icon": "https://qxzhan.cn/favicon.ico",
+		"name": "青序栈",
+		"description": "青序成栈·向简而生",
+		"github_username": "scfcn"
+	},
+	"98": {
+		"domain": "200536.xyz",
+		"icon": "https://200536.xyz/icon.svg",
+		"name": "ACCB",
+		"description": "破烂中寻找记忆.",
+		"github_username": "Lbb886"
+	},
+	"99": {
+		"domain": "blog.kong.college",
+		"icon": "https://image.kong.college/i/2025/09/09/spq9n6.png",
+		"name": "28.7的博客",
+		"description": "空山不见人，但闻人语响",
+		"github_username": "2022471674"
+	},
+	"100": {
+		"domain": "www.sumi233.top",
+		"icon": "https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/userfb6a1018b84ce485.jpg",
+		"name": "酥米的小站",
+		"description": "终有一日，寻梦中人",
+		"github_username": "huang233893"
+	},
+	"101": {
+		"domain": "tiger.work",
+		"icon": "https://tiger.work/content/images/size/w256h256/2025/09/favicon.png",
+		"name": "虎行独语",
+		"description": "追逐感官层面各种意义上的丰满。",
+		"github_username": "akaTiger"
+	},
+	"102": {
+		"domain": "woolyun.com",
+		"icon": "https://woolyun.com/wp-content/uploads/2025/05/yyl-e1746698677584.jpg",
+		"name": "天海博客",
+		"description": "建站经验记录，实用工具推荐，免费资源分享。",
+		"github_username": "citihu"
+	},
+	"103": {
+		"domain": "hongshi.qzz.io",
+		"icon": "https://hongshi.qzz.io/favicon.png",
+		"name": "红石の空间站",
+		"description": "一个高中牲的小站。",
+		"github_username": "HongShi211"
+	},
+	"104": {
+		"domain": "blog.6uu.us",
+		"icon": "https://blog.6uu.us/upload/lsyb.png",
+		"name": "bbb-lsy07",
+		"description": "科技激荡人文，洞见智慧本真。",
+		"github_username": "bbb-lsy07"
+	},
+	"105": {
+		"domain": "www.krjojo.com",
+		"icon": "https://www.krjojo.com/wp-content/uploads/2025/02/毛毛虫2.avif",
+		"name": "手里有只毛毛虫",
+		"description": "礼印封缄寄意深，外盒承情胜万金",
+		"github_username": "miniwater"
+	},
+	"106": {
+		"domain": "blog.2xgh.qzz.io",
+		"icon": "https://vip.123pan.cn/1830248277/yk6baz03t0m000d7w33gpcmh40mzyt9jDIYwDdixBdi0AvxwDqrOBa==.jpg",
+		"name": "LegspCpd Blog",
+		"description": "我们还有最后一个办法!",
+		"github_username": "Echo846"
+	},
+	"107": {
+		"domain": "xiaonie.xyz",
+		"icon": "https://xiaonie.xyz/upload/logo.webp",
+		"name": "小聂的窝",
+		"description": "一个简单纯粹的个人分享空间",
+		"github_username": "nieshilin"
+	},
+	"108": {
+		"domain": "blog.nanyu.xin",
+		"icon": "https://pub-87b735325dbc4bfa8730cb88a763437b.r2.dev/docs/1763387413285.png",
+		"name": "南夕栎",
+		"description": "记录生活，也记录时代的细碎",
+		"github_username": "SEYYl"
+	},
+	"109": {
+		"domain": "zebin-yue.top",
+		"icon": "https://github.com/ZebinGao.png",
+		"name": "zebin",
+		"description": "欲买桂花同载酒，终不似，少年游",
+		"github_username": "ZebinGao"
+	},
+	"110": {
+		"domain": "blog.hehouhui.cn",
+		"icon": "https://www.hehouhui.cn/images/avatar.jpeg",
+		"name": "Honesty",
+		"description": "花落知多少",
+		"github_username": "listener-He"
+	},
+	"111": {
+		"domain": "blog.iotfen.com",
+		"icon": "https://static.iotfen.com/images/dist/favicon.png",
+		"name": "LuckyDog",
+		"description": "一个喜欢研究前沿技术及写小说的神秘人",
+		"github_username": "lucki-cn"
+	},
+	"112": {
+		"domain": "blog.andyjin.website",
+		"icon": "https://filestorage0.oss-cn-hongkong.aliyuncs.com/avatar.png",
+		"name": "Modern Blog",
+		"description": "分享技术，记录生活",
+		"github_username": "PlayWithAndyJin"
+	},
+	"113": {
+		"domain": "bluelanm.github.io",
+		"icon": "https://bluelanm.github.io/my-website/img/3.ico",
+		"name": "LanM",
+		"description": "蓝莓",
+		"github_username": "BlueLanM"
+	},
+	"114": {
+		"domain": "xiaolaji.site",
+		"icon": "https://xiaolaji.site/img/logo.png",
+		"name": "星陨",
+		"description": "欲买桂花同载酒，终不似，少年游",
+		"github_username": "xiaolaji404"
+	},
+	"115": {
+		"domain": "jackie.openenet.cn",
+		"icon": "https://jackie.openenet.cn/img/favicon/image.png",
+		"name": "Jackie's Blog",
+		"description": "探索区块链、自动化与开源技术",
+		"github_username": "PyXMR2025"
+	},
+	"116": {
+	"domain": "freedom2599.cn",
+	"icon": "https://gcore.jsdelivr.net/gh/freedom2599/Pics@main/assets/tx.jpg",
+	"name": "Freedom2599的小破绽",
+	"description": "气味是回忆的超链接",
+	"github_username": "Freedom2599"
+	},
+	"117": {
+	"domain": "zhouyistudio.cyou",
+	"icon": "http://q.qlogo.cn/headimg_dl?dst_uin=823672854&spec=640&img_type=jpg",
+	"name": "Zhouyi's Blog",
+	"description": "用文字和代码，把平凡的日子折腾出光✨",
+	"github_username": "ZhouyiStudio"
+	},
+	"118": {
+	"domain": "blog.xiaoowo.top",
+	"icon": "https://img.xiaoowo.top/file/1773812167751_favicon.ico",
+	"name": "霄の咖啡馆",
+	"description": "摆烂类博客，写什么纯属兴趣( •̀ ω •́ )✧",
+	"github_username": "xiaoranawa"
+	},
+	"119": {
+	"domain": "www.taoziwei.com",
+	"icon": "https://www.taoziwei.com/wp-content/uploads/2025/11/cropped-favicon-180x180.png",
+	"name": "桃子味🍑",
+	"description": "记录生活点滴，关注互联网IT技术的个人博客。",
+	"github_username": "cxw521"
+	},
+	"120": {
+		"domain": "blog.rusin7.com",
+		"icon": "https://blog.rusin7.com/favicon.ico",
+		"name": "如形の博客",
+		"description": "亲身体验，终生实践",
+		"github_username": "ruying-suixing"
+	},
+	"121": {
+		"domain": "blog.gankudadiz.com",
+		"icon": "https://blog.gankudadiz.com/avatar/avatar-128x128.jpg",
+		"name": "gankudadiz的个人小站",
+		"description": "<127.0.0.1 is where the heart is>",
+		"github_username": "gankudadiz"
+	},
+	"122": {
+		"domain": "blog.zxiaolin.com",
+		"icon": "https://blog.zxiaolin.com/upload/humuziwt.png",
+		"name": "小林酱博客",
+		"description": "小林酱博客-记录生活，专注于自媒体资源分享",
+		"github_username": "zhyzy"
+	},
+	"123": {
+		"domain": "xiangyugongzuoliu.com",
+		"icon": "https://xiangyugongzuoliu.com/content/images/2026/03/favicon.jpg",
+		"name": "翔宇工作流",
+		"description": "AI 编程与自动化工作流实战教程",
+		"github_username": "xiangyugongzuoliu"
+	},
+	"124": {
+		"domain": "yuluo.xyz",
+		"icon": "https://yuluo.xyz/logo.jpg",
+		"name": "辞入森川",
+		"description": "辞尽俗世纷扰，只身步入森与川。",
+		"github_username": "Senc-QWA"
+	},
+	"125": {
+		"domain": "memo.moieo.net",
+		"icon": "https://memo.moieo.net/favicon/favicon-dark-192.png",
+		"name": "晴雨笔记",
+		"description": "素白清韵，简静安然",
+		"github_username": "xmoieo"
 	}
 }
